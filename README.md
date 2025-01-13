@@ -1,5 +1,5 @@
 # Computer Tech Final Project
 
-## Motion Detected Night Light
+## Car Indicator
 
-A motion sensor will detect movement. When it does, it will send a signal to the light, which will turn on.
+A sideswitch will be in the middle, when switched to the right, the 4 LED's will turn on and off in sequential order, same thing on the left. This will happen for 5 seconds before turning off.
