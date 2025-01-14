@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culminating Final Project
-theme: minima
+theme: jekyll-theme-cayman
 ---
 
 # Computer Tech Final Project
