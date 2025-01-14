@@ -9,5 +9,6 @@ The way it works is when the switch is flicked to the right direction, one of th
 The same will happen when the switch is flicked on to the left.
 
 
-![Image of an orange cat](/My files/Downloads/download (11).jpeg)
+![Image of an orange cat](/images/catimage.png)
+
 
