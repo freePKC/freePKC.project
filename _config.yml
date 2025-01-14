@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 navigation:
   - title: Home
     url: /
-  - title: Project Info
+  - title: Project Information
     url: /Project Information/
 
 
