@@ -1,6 +1,6 @@
 theme: minima
 
-header:
-  - title: "Project Information"
-    url: "/Project Information/"
+header_pages:
+  - ProjectInfo.md
+
 
