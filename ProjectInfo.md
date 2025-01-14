@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project Information"
-permalink: /about/
+permalink: /Project Information/
 ---
 
 ##Project Information:
