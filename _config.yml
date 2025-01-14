@@ -1,6 +1,12 @@
 theme: jekyll-theme-cayman
 
-header_pages:
-  - ProjectInfo.md
+
+# Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Project Info
+    url: /Project Information/
+
 
 
