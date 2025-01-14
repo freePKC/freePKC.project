@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culminating Final Project
-theme: jekyll-theme-cayman
+theme: minima
 ---
 
 # Computer Tech Final Project
@@ -10,4 +10,5 @@ This is a project for the Coumpter Technology Course in which we were tasked to 
 
 For this project, Myself (Aariz) and Asim decided to partner up as we believe we would have more success doing so.
 
-For more information on topics such as the project, refer to the *Project Info* page.
+## Different Pages:
+-/Project Information/
