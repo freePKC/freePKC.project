@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Culminating Final Project
 theme: minima
 ---
 
