@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culminating Final Project
-theme: forty
+theme: minima
 ---
 
 # Computer Tech Final Project
