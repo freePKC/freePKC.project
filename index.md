@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Culminating Final Project
-theme: minima
+theme: "minimal-mistakes-jekyll"
 ---
 
 # Computer Tech Final Project
