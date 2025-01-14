@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
 
-header_pages:
-  - ProjectInfo.md
+header:
+  - title: "Project Information"
+    url: "/Project Information/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
