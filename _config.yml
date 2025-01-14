@@ -3,8 +3,6 @@ theme: jekyll-theme-cayman
 
 # Navigation links
 navigation:
-  - title: Home
-    url: /
   - title: Project Information
     url: /Project Information/
 
