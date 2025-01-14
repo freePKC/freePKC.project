@@ -1,0 +1,5 @@
+title: "My GitHub Pages Site"
+description: "A personal website or project site"
+theme: minima # or another supported Jekyll theme
+url: "https://<your-github-username>.github.io/<repository-name>"
+baseurl: "/<repository-name>" # Remove this line if deploying to https://<your-username>.github.io
