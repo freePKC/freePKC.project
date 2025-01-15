@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Project Information"
-permalink: /Project Information/
+permalink: /Project Info/
 ---
 
 The project my partner and I decided to go with was a simple car indicator. We decided to make this car indicator a **Sequential LED Indicator** which provided **Dynamic LED Motion**. 
