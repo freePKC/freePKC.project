@@ -10,4 +10,4 @@ This is a project for the Coumpter Technology Course in which we were tasked to 
 For this project, Myself (Aariz) and Asim decided to partner up as we believe we would have more success doing so.
 
 ## Different Pages:
-[Project Information](/Project Information/)
+[Project Information](/Project Info/)
